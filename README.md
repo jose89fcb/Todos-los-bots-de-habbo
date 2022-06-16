@@ -1,4 +1,4 @@
-Si en algun bot da error: <b>Image.ANTIALIAS</b>
+Si en algun bot da error de <b>Image.ANTIALIAS</b>
 
 <br>
 Teneis que reemplazar <b>Image.ANTIALIAS</b> por <b>Image.Resampling.LANCZOS</b>
