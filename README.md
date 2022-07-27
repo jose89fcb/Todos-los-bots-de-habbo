@@ -5,7 +5,7 @@ Teneis que reemplazar <b>Image.ANTIALIAS</b> por <b>Image.Resampling.LANCZOS</b>
 
 <br>
 <br>
-https://github.com/jose89fcb/bot-discord-ultimas-placas-habbo
+bot-discord-ultimas-placas-habbo
 <br>
 https://github.com/jose89fcb/palmera-habbo-python-discord
 <br>
